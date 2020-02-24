@@ -1,3 +1,4 @@
 Test file.
 Test Update.
 Test Update and commit from Server.
+Test update and commit by Pull.
